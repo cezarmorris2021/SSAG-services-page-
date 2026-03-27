@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Sentinel Zero | Services</title>
+
+<style>
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background: #0b1220;
+  color: #fff;
+}
+
+.container {
+  max-width: 1100px;
+  margin: auto;
+  padding: 40px 20px;
+}
+
+h1 {
+  font-size: 42px;
+}
+
+h2 {
+  margin-top: 40px;
+}
+
+.card {
+  background: #111827;
+  padding: 20px;
+  border-radius: 10px;
+  margin-top: 20px;
+}
+
+.grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 20px;
+}
+
+@media(max-width:768px){
+  .grid {
+    grid-template-columns: 1fr;
+  }
+}
+</style>
+</head>
+
+<body>
+
+<div class="container">
+
+<h1>Sentinel Zero Services</h1>
+
+<p>
+Sentinel Zero operates as a cybersecurity and business protection division focused on identifying risk, strengthening systems, and helping businesses operate securely.
+</p>
+
+<h2>Core Services</h2>
+
+<div class="grid">
+
+<div class="card">
+<h3>Cybersecurity Risk Assessments</h3>
+<p>Full review of your business systems to identify vulnerabilities.</p>
+</div>
+
+<div class="card">
+<h3>Device & Network Security Review</h3>
+<p>Evaluation of phones, computers, and networks for potential exposure.</p>
+</div>
+
+<div class="card">
+<h3>Operational Risk Analysis</h3>
+<p>Identifying weak processes that could lead to financial or data loss.</p>
+</div>
+
+<div class="card">
+<h3>Security Advisory</h3>
+<p>Clear recommendations on how to fix and secure your setup.</p>
+</div>
+
+</div>
+
+<h2>Advanced Capabilities (SSAG Integration)</h2>
+
+<div class="grid">
+
+<div class="card">
+<h3>AI Outbound Appointment Setting</h3>
+<p>Automated AI system that contacts leads, qualifies them, and books appointments.</p>
+</div>
+
+<div class="card">
+<h3>CRM & Pipeline Systems</h3>
+<p>Full backend systems to track leads, clients, and revenue flow.</p>
+</div>
+
+<div class="card">
+<h3>Automation & Follow-Up Systems</h3>
+<p>Ensure no lead is missed and every opportunity is followed up.</p>
+</div>
+
+<div class="card">
+<h3>Business Infrastructure Systems</h3>
+<p>Complete backend build or optimization of your current system.</p>
+</div>
+
+</div>
+
+<h2>Position</h2>
+
+<p>
+Sentinel Zero is not just a cybersecurity service — it is part of a larger system designed to protect, optimize, and scale business operations.
+</p>
+
+<a href="index.html" style="color:#3b82f6;">← Back to Home</a>
+
+</div>
+
+</body>
+</html>
